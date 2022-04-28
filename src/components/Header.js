@@ -1,5 +1,5 @@
 import React from "react"
-import img from "./images/smiling-face.png"
+import img from "./images/aaf.png"
 
 export default function App(){
   return (
@@ -8,7 +8,7 @@ export default function App(){
             <img src={img} alt="smiling face" className="header--image"/>
             <h2>Meme Generator</h2>  
           </div>
-          <p>React Course</p>
+          <p>Scrimba - React Course</p>
       </nav>
       
   )
